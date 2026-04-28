@@ -6,7 +6,7 @@ public class SystemMain04 {
 
 		Member[] members = new Member[2];
 		//TODO ここから実装する
-		Member miura = new Member(1, "password", "Miura Manabu", 28, 2);
+		Member miura = new Member(1, "passw0rd", "Miura Manabu", 28, 2);
 
 		members[0] = miura;
 
