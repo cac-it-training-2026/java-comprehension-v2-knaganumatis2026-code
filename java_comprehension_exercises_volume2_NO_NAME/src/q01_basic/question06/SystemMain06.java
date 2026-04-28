@@ -14,7 +14,7 @@ public class SystemMain06 {
 		int rank = 2;
 
 		System.out.println("---CREATE MEMBER DATA---");
-		//TODO ここから実装する
+		//TODO ここから実装する.
 
 		try {
 			inputId = cr.inputNumber();
