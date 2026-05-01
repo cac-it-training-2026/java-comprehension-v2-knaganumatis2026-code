@@ -8,7 +8,7 @@ public class SystemMain02 {
 
 	public static void main(String[] args) throws IOException, NumberFormatException {
 
-		//TODO ここから実装する
+		//TODO ここから実装
 
 		ConsoleReader con = new ConsoleReader();
 
